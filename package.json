@@ -1,0 +1,23 @@
+{
+  "name": "hexlet",
+  "version": "1.0.0",
+  "description": "My first project in Hexlet",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Julia-Tisa/hexlet-js.git"
+  },
+  "author": "Julia Isakova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Julia-Tisa/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/Julia-Tisa/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
